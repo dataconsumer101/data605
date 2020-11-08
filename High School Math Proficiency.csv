@@ -1,0 +1,842 @@
+"Name","High School Math Proficiency"
+"Description","Public high school students meeting proficiency standards in Math after 4 years of instruction."
+"Source Notes","New York State Education Department, New York State Report Cards Database (School Years 2008-09 to 2018-19); retrieved from&nbsp;<a href=""https://reportcards.nysed.gov/"" target=""_blank"">https://reportcards.nysed.gov/</a>."
+"Notes","Students are deemed proficient if they score 65 or higher on the ELA Regents exam. Data refer to the results for a total cohort of students. A total cohort consists of all students who first entered Grade 9 in a particular year, and all ungraded students with disabilities who reached their seventeenth birthday in that&nbsp;<g class=""gr_ gr_16 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""16"" data-gr-id=""16"">year,</g>&nbsp;and were enrolled in the school/district for five months. Students are excluded from the cohort if they transferred to another school district, nonpublic school, or criminal justice facility, or left the U.S. and its territories or died before the report date.&nbsp;In order to comply with FERPA regulations on public reporting of education outcomes, breakdowns where the number of students tested is 5 or less are suppressed and maps and tables display ""0"" for that geography.&nbsp;"
+
+Location,TimeFrame,DataFormat,Data,Fips
+Lower East Side,2009,Number,666,SD1
+Lower East Side,2009,Percent,0.75169,SD1
+Lower East Side,2010,Number,676,SD1
+Lower East Side,2010,Percent,0.74696,SD1
+"Stuyvesant Town, Upper E. Side",2009,Number,6168,SD2
+"Stuyvesant Town, Upper E. Side",2009,Percent,0.6778,SD2
+"Stuyvesant Town, Upper E. Side",2010,Number,6870,SD2
+"Stuyvesant Town, Upper E. Side",2010,Percent,0.71037,SD2
+Upper West Side,2009,Number,1744,SD3
+Upper West Side,2009,Percent,0.67755,SD3
+Upper West Side,2010,Number,1757,SD3
+Upper West Side,2010,Percent,0.6931,SD3
+East Harlem,2009,Number,701,SD4
+East Harlem,2009,Percent,0.7348,SD4
+East Harlem,2010,Number,685,SD4
+East Harlem,2010,Percent,0.75441,SD4
+Central Harlem,2009,Number,629,SD5
+Central Harlem,2009,Percent,0.70993,SD5
+Central Harlem,2010,Number,680,SD5
+Central Harlem,2010,Percent,0.73753,SD5
+Washington Heights,2009,Number,753,SD6
+Washington Heights,2009,Percent,0.76915,SD6
+Washington Heights,2010,Number,840,SD6
+Washington Heights,2010,Percent,0.7785,SD6
+Mott Haven,2009,Number,895,SD7
+Mott Haven,2009,Percent,0.56503,SD7
+Mott Haven,2010,Number,976,SD7
+Mott Haven,2010,Percent,0.5813,SD7
+"Hunts Point, Port Morris",2009,Number,1570,SD8
+"Hunts Point, Port Morris",2009,Percent,0.54685,SD8
+"Hunts Point, Port Morris",2010,Number,1674,SD8
+"Hunts Point, Port Morris",2010,Percent,0.58634,SD8
+"East Tremont, Morris Heights",2009,Number,1151,SD9
+"East Tremont, Morris Heights",2009,Percent,0.66958,SD9
+"East Tremont, Morris Heights",2010,Number,1440,SD9
+"East Tremont, Morris Heights",2010,Percent,0.68279,SD9
+"Riverdale, Kingsbridge, Fordham",2009,Number,3207,SD10
+"Riverdale, Kingsbridge, Fordham",2009,Percent,0.65744,SD10
+"Riverdale, Kingsbridge, Fordham",2010,Number,3348,SD10
+"Riverdale, Kingsbridge, Fordham",2010,Percent,0.70101,SD10
+"Eastchester, Baychester, Co-op City",2009,Number,1571,SD11
+"Eastchester, Baychester, Co-op City",2009,Percent,0.61753,SD11
+"Eastchester, Baychester, Co-op City",2010,Number,1608,SD11
+"Eastchester, Baychester, Co-op City",2010,Percent,0.63911,SD11
+"Crotona Park, Morrisania, Melrose",2009,Number,731,SD12
+"Crotona Park, Morrisania, Melrose",2009,Percent,0.56144,SD12
+"Crotona Park, Morrisania, Melrose",2010,Number,743,SD12
+"Crotona Park, Morrisania, Melrose",2010,Percent,0.55242,SD12
+"Brooklyn Hts, Downtown Brooklyn",2009,Number,2155,SD13
+"Brooklyn Hts, Downtown Brooklyn",2009,Percent,0.83205,SD13
+"Brooklyn Hts, Downtown Brooklyn",2010,Number,2325,SD13
+"Brooklyn Hts, Downtown Brooklyn",2010,Percent,0.8178,SD13
+"Williamsburg, Greenpoint",2009,Number,871,SD14
+"Williamsburg, Greenpoint",2009,Percent,0.65686,SD14
+"Williamsburg, Greenpoint",2010,Number,1042,SD14
+"Williamsburg, Greenpoint",2010,Percent,0.69467,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2009,Number,797,SD15
+"S. Brooklyn, Park Slope, Sunset Park",2009,Percent,0.5997,SD15
+"S. Brooklyn, Park Slope, Sunset Park",2010,Number,739,SD15
+"S. Brooklyn, Park Slope, Sunset Park",2010,Percent,0.60574,SD15
+Bedford Stuyvesant,2009,Number,443,SD16
+Bedford Stuyvesant,2009,Percent,0.46681,SD16
+Bedford Stuyvesant,2010,Number,347,SD16
+Bedford Stuyvesant,2010,Percent,0.53632,SD16
+Crown Heights,2009,Number,1564,SD17
+Crown Heights,2009,Percent,0.68,SD17
+Crown Heights,2010,Number,1675,SD17
+Crown Heights,2010,Percent,0.7152,SD17
+"East Flatbush, Canarsie",2009,Number,641,SD18
+"East Flatbush, Canarsie",2009,Percent,0.44763,SD18
+"East Flatbush, Canarsie",2010,Number,496,SD18
+"East Flatbush, Canarsie",2010,Percent,0.46355,SD18
+East New York,2009,Number,992,SD19
+East New York,2009,Percent,0.5614,SD19
+East New York,2010,Number,1078,SD19
+East New York,2010,Percent,0.61285,SD19
+"Bay Ridge, Bensonhurst",2009,Number,2046,SD20
+"Bay Ridge, Bensonhurst",2009,Percent,0.6875,SD20
+"Bay Ridge, Bensonhurst",2010,Number,2046,SD20
+"Bay Ridge, Bensonhurst",2010,Percent,0.71916,SD20
+"Gravesend, Coney Island",2009,Number,2147,SD21
+"Gravesend, Coney Island",2009,Percent,0.69958,SD21
+"Gravesend, Coney Island",2010,Number,2165,SD21
+"Gravesend, Coney Island",2010,Percent,0.7157,SD21
+"Flatbush, Midwood, Sheepshead Bay",2009,Number,2104,SD22
+"Flatbush, Midwood, Sheepshead Bay",2009,Percent,0.75277,SD22
+"Flatbush, Midwood, Sheepshead Bay",2010,Number,2473,SD22
+"Flatbush, Midwood, Sheepshead Bay",2010,Percent,0.84288,SD22
+"Brownsville, Ocean Hill",2009,Number,318,SD23
+"Brownsville, Ocean Hill",2009,Percent,0.53,SD23
+"Brownsville, Ocean Hill",2010,Number,356,SD23
+"Brownsville, Ocean Hill",2010,Percent,0.49171,SD23
+"Sunnyside, Woodside, Jackson Hts",2009,Number,2203,SD24
+"Sunnyside, Woodside, Jackson Hts",2009,Percent,0.66375,SD24
+"Sunnyside, Woodside, Jackson Hts",2010,Number,2146,SD24
+"Sunnyside, Woodside, Jackson Hts",2010,Percent,0.71154,SD24
+"Flushing, Whitestone",2009,Number,1283,SD25
+"Flushing, Whitestone",2009,Percent,0.65829,SD25
+"Flushing, Whitestone",2010,Number,1627,SD25
+"Flushing, Whitestone",2010,Percent,0.72055,SD25
+"Bayside, Douglaston, Little Neck",2009,Number,3592,SD26
+"Bayside, Douglaston, Little Neck",2009,Percent,0.8528,SD26
+"Bayside, Douglaston, Little Neck",2010,Number,3602,SD26
+"Bayside, Douglaston, Little Neck",2010,Percent,0.86338,SD26
+"Jamaica, Howard Beach, Rockaways",2009,Number,1664,SD27
+"Jamaica, Howard Beach, Rockaways",2009,Percent,0.54114,SD27
+"Jamaica, Howard Beach, Rockaways",2010,Number,1909,SD27
+"Jamaica, Howard Beach, Rockaways",2010,Percent,0.63464,SD27
+"Jamaica, Forest Hills",2009,Number,2513,SD28
+"Jamaica, Forest Hills",2009,Percent,0.76499,SD28
+"Jamaica, Forest Hills",2010,Number,2696,SD28
+"Jamaica, Forest Hills",2010,Percent,0.79976,SD28
+"Queens Village, Rosedale, Hollis",2009,Number,591,SD29
+"Queens Village, Rosedale, Hollis",2009,Percent,0.69858,SD29
+"Queens Village, Rosedale, Hollis",2010,Number,636,SD29
+"Queens Village, Rosedale, Hollis",2010,Percent,0.69432,SD29
+"Long Island City, Astoria",2009,Number,1757,SD30
+"Long Island City, Astoria",2009,Percent,0.71627,SD30
+"Long Island City, Astoria",2010,Number,1917,SD30
+"Long Island City, Astoria",2010,Percent,0.76375,SD30
+Staten Island,2009,Number,3230,SD31
+Staten Island,2009,Percent,0.73143,SD31
+Staten Island,2010,Number,3617,SD31
+Staten Island,2010,Percent,0.79338,SD31
+Bushwick,2009,Number,403,SD32
+Bushwick,2009,Percent,0.51142,SD32
+Bushwick,2010,Number,524,SD32
+Bushwick,2010,Percent,0.58876,SD32
+Bronx,2009,Number,9125,36005
+Bronx,2009,Percent,0.6125,36005
+Bronx,2010,Number,9857,36005
+Bronx,2010,Percent,0.64115,36005
+Brooklyn,2009,Number,14481,36047
+Brooklyn,2009,Percent,0.6606,36047
+Brooklyn,2010,Number,15391,36047
+Brooklyn,2010,Percent,0.70103,36047
+Manhattan,2009,Number,10661,36061
+Manhattan,2009,Percent,0.69322,36061
+Manhattan,2010,Number,11553,36061
+Manhattan,2010,Percent,0.70738,36061
+Queens,2009,Number,13603,36081
+Queens,2009,Percent,0.71075,36081
+Queens,2010,Number,14570,36081
+Queens,2010,Percent,0.75484,36081
+Staten Island,2009,Number,3230,36085
+Staten Island,2009,Percent,0.73143,36085
+Staten Island,2010,Number,3617,36085
+Staten Island,2010,Percent,0.79338,36085
+New York City,2009,Number,51100,3651000
+New York City,2009,Percent,0.67456,3651000
+New York City,2010,Number,54713,3651000
+New York City,2010,Percent,0.7114,3651000
+Lower East Side,2011,Number,738,SD1
+Lower East Side,2011,Percent,0.69037,SD1
+"Stuyvesant Town, Upper E. Side",2011,Number,6819,SD2
+"Stuyvesant Town, Upper E. Side",2011,Percent,0.72573,SD2
+Upper West Side,2011,Number,1789,SD3
+Upper West Side,2011,Percent,0.69073,SD3
+East Harlem,2011,Number,730,SD4
+East Harlem,2011,Percent,0.75726,SD4
+Central Harlem,2011,Number,707,SD5
+Central Harlem,2011,Percent,0.7127,SD5
+Washington Heights,2011,Number,902,SD6
+Washington Heights,2011,Percent,0.77759,SD6
+Mott Haven,2011,Number,1215,SD7
+Mott Haven,2011,Percent,0.61581,SD7
+"Hunts Point, Port Morris",2011,Number,1703,SD8
+"Hunts Point, Port Morris",2011,Percent,0.61303,SD8
+"East Tremont, Morris Heights",2011,Number,1464,SD9
+"East Tremont, Morris Heights",2011,Percent,0.65709,SD9
+"Riverdale, Kingsbridge, Fordham",2011,Number,3475,SD10
+"Riverdale, Kingsbridge, Fordham",2011,Percent,0.72471,SD10
+"Eastchester, Baychester, Co-op City",2011,Number,1681,SD11
+"Eastchester, Baychester, Co-op City",2011,Percent,0.6546,SD11
+"Crotona Park, Morrisania, Melrose",2011,Number,850,SD12
+"Crotona Park, Morrisania, Melrose",2011,Percent,0.53934,SD12
+"Brooklyn Hts, Downtown Brooklyn",2011,Number,2291,SD13
+"Brooklyn Hts, Downtown Brooklyn",2011,Percent,0.84073,SD13
+"Williamsburg, Greenpoint",2011,Number,1194,SD14
+"Williamsburg, Greenpoint",2011,Percent,0.70945,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2011,Number,733,SD15
+"S. Brooklyn, Park Slope, Sunset Park",2011,Percent,0.60033,SD15
+Bedford Stuyvesant,2011,Number,486,SD16
+Bedford Stuyvesant,2011,Percent,0.5625,SD16
+Crown Heights,2011,Number,1830,SD17
+Crown Heights,2011,Percent,0.72908,SD17
+"East Flatbush, Canarsie",2011,Number,619,SD18
+"East Flatbush, Canarsie",2011,Percent,0.58286,SD18
+East New York,2011,Number,1178,SD19
+East New York,2011,Percent,0.67161,SD19
+"Bay Ridge, Bensonhurst",2011,Number,2188,SD20
+"Bay Ridge, Bensonhurst",2011,Percent,0.72546,SD20
+"Gravesend, Coney Island",2011,Number,2453,SD21
+"Gravesend, Coney Island",2011,Percent,0.72768,SD21
+"Flatbush, Midwood, Sheepshead Bay",2011,Number,2356,SD22
+"Flatbush, Midwood, Sheepshead Bay",2011,Percent,0.85146,SD22
+"Brownsville, Ocean Hill",2011,Number,401,SD23
+"Brownsville, Ocean Hill",2011,Percent,0.5632,SD23
+"Sunnyside, Woodside, Jackson Hts",2011,Number,2471,SD24
+"Sunnyside, Woodside, Jackson Hts",2011,Percent,0.7472,SD24
+"Flushing, Whitestone",2011,Number,1910,SD25
+"Flushing, Whitestone",2011,Percent,0.77896,SD25
+"Bayside, Douglaston, Little Neck",2011,Number,3626,SD26
+"Bayside, Douglaston, Little Neck",2011,Percent,0.86498,SD26
+"Jamaica, Howard Beach, Rockaways",2011,Number,2280,SD27
+"Jamaica, Howard Beach, Rockaways",2011,Percent,0.7094,SD27
+"Jamaica, Forest Hills",2011,Number,2811,SD28
+"Jamaica, Forest Hills",2011,Percent,0.80452,SD28
+"Queens Village, Rosedale, Hollis",2011,Number,707,SD29
+"Queens Village, Rosedale, Hollis",2011,Percent,0.69382,SD29
+"Long Island City, Astoria",2011,Number,1974,SD30
+"Long Island City, Astoria",2011,Percent,0.78834,SD30
+Staten Island,2011,Number,3627,SD31
+Staten Island,2011,Percent,0.80888,SD31
+Bushwick,2011,Number,528,SD32
+Bushwick,2011,Percent,0.6069,SD32
+Bronx,2011,Number,10446,36005
+Bronx,2011,Percent,0.65337,36005
+Brooklyn,2011,Number,16400,36047
+Brooklyn,2011,Percent,0.7217,36047
+Manhattan,2011,Number,11860,36061
+Manhattan,2011,Percent,0.71601,36061
+Queens,2011,Number,15819,36081
+Queens,2011,Percent,0.78192,36081
+Staten Island,2011,Number,3627,36085
+Staten Island,2011,Percent,0.80888,36085
+New York City,2011,Number,57736,3651000
+New York City,2011,Percent,0.72798,3651000
+New York City,2012,Number,59398,3651000
+Manhattan,2012,Number,12256,36061
+Bronx,2012,Number,10276,36005
+Brooklyn,2012,Number,16695,36047
+Queens,2012,Number,16425,36081
+Staten Island,2012,Number,3746,36085
+New York City,2012,Percent,0.74509,3651000
+Manhattan,2012,Percent,0.74419,36061
+Bronx,2012,Percent,0.65876,36005
+Brooklyn,2012,Percent,0.75135,36047
+Queens,2012,Percent,0.78947,36081
+Staten Island,2012,Percent,0.80977,36085
+Lower East Side,2012,Number,779,SD1
+"Stuyvesant Town, Upper E. Side",2012,Number,7304,SD2
+Upper West Side,2012,Number,1673,SD3
+East Harlem,2012,Number,776,SD4
+Central Harlem,2012,Number,711,SD5
+Washington Heights,2012,Number,1013,SD6
+Mott Haven,2012,Number,1111,SD7
+"Hunts Point, Port Morris",2012,Number,1572,SD8
+"East Tremont, Morris Heights",2012,Number,1432,SD9
+"Riverdale, Kingsbridge, Fordham",2012,Number,3619,SD10
+"Eastchester, Baychester, Co-op City",2012,Number,1680,SD11
+"Crotona Park, Morrisania, Melrose",2012,Number,862,SD12
+"Brooklyn Hts, Downtown Brooklyn",2012,Number,2388,SD13
+"Williamsburg, Greenpoint",2012,Number,1334,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2012,Number,768,SD15
+Bedford Stuyvesant,2012,Number,384,SD16
+Crown Heights,2012,Number,1608,SD17
+"East Flatbush, Canarsie",2012,Number,818,SD18
+East New York,2012,Number,1203,SD19
+"Bay Ridge, Bensonhurst",2012,Number,2287,SD20
+"Gravesend, Coney Island",2012,Number,2559,SD21
+"Flatbush, Midwood, Sheepshead Bay",2012,Number,2461,SD22
+"Brownsville, Ocean Hill",2012,Number,348,SD23
+Bushwick,2012,Number,537,SD32
+"Sunnyside, Woodside, Jackson Hts",2012,Number,2825,SD24
+"Flushing, Whitestone",2012,Number,2207,SD25
+"Bayside, Douglaston, Little Neck",2012,Number,3582,SD26
+"Jamaica, Howard Beach, Rockaways",2012,Number,2362,SD27
+"Jamaica, Forest Hills",2012,Number,2760,SD28
+"Queens Village, Rosedale, Hollis",2012,Number,675,SD29
+"Long Island City, Astoria",2012,Number,2014,SD30
+Staten Island,2012,Number,3746,SD31
+Lower East Side,2012,Percent,0.6906,SD1
+"Stuyvesant Town, Upper E. Side",2012,Percent,0.75455,SD2
+Upper West Side,2012,Percent,0.72708,SD3
+East Harlem,2012,Percent,0.76832,SD4
+Central Harlem,2012,Percent,0.69163,SD5
+Washington Heights,2012,Percent,0.76626,SD6
+Mott Haven,2012,Percent,0.58908,SD7
+"Hunts Point, Port Morris",2012,Percent,0.60392,SD8
+"East Tremont, Morris Heights",2012,Percent,0.67547,SD9
+"Riverdale, Kingsbridge, Fordham",2012,Percent,0.72905,SD10
+"Eastchester, Baychester, Co-op City",2012,Percent,0.67797,SD11
+"Crotona Park, Morrisania, Melrose",2012,Percent,0.55685,SD12
+"Brooklyn Hts, Downtown Brooklyn",2012,Percent,0.84711,SD13
+"Williamsburg, Greenpoint",2012,Percent,0.7524,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2012,Percent,0.62388,SD15
+Bedford Stuyvesant,2012,Percent,0.51822,SD16
+Crown Heights,2012,Percent,0.74686,SD17
+"East Flatbush, Canarsie",2012,Percent,0.68797,SD18
+East New York,2012,Percent,0.70516,SD19
+"Bay Ridge, Bensonhurst",2012,Percent,0.76797,SD20
+"Gravesend, Coney Island",2012,Percent,0.78545,SD21
+"Flatbush, Midwood, Sheepshead Bay",2012,Percent,0.85244,SD22
+"Brownsville, Ocean Hill",2012,Percent,0.54803,SD23
+Bushwick,2012,Percent,0.63176,SD32
+"Sunnyside, Woodside, Jackson Hts",2012,Percent,0.75819,SD24
+"Flushing, Whitestone",2012,Percent,0.8008,SD25
+"Bayside, Douglaston, Little Neck",2012,Percent,0.88401,SD26
+"Jamaica, Howard Beach, Rockaways",2012,Percent,0.70803,SD27
+"Jamaica, Forest Hills",2012,Percent,0.82094,SD28
+"Queens Village, Rosedale, Hollis",2012,Percent,0.68182,SD29
+"Long Island City, Astoria",2012,Percent,0.77971,SD30
+Staten Island,2012,Percent,0.80977,SD31
+New York City,2013,Number,60409,3651000
+Manhattan,2013,Number,12462,36061
+Bronx,2013,Number,10385,36005
+Brooklyn,2013,Number,16886,36047
+Queens,2013,Number,16926,36081
+Staten Island,2013,Number,3750,36085
+New York City,2013,Percent,0.76738,3651000
+Manhattan,2013,Percent,0.76496,36061
+Bronx,2013,Percent,0.68552,36005
+Brooklyn,2013,Percent,0.76989,36047
+Queens,2013,Percent,0.81355,36081
+Staten Island,2013,Percent,0.82545,36085
+Lower East Side,2013,Number,771,SD1
+"Stuyvesant Town, Upper E. Side",2013,Number,7268,SD2
+Upper West Side,2013,Number,1739,SD3
+East Harlem,2013,Number,794,SD4
+Central Harlem,2013,Number,748,SD5
+Washington Heights,2013,Number,1142,SD6
+Mott Haven,2013,Number,1117,SD7
+"Hunts Point, Port Morris",2013,Number,1518,SD8
+"East Tremont, Morris Heights",2013,Number,1450,SD9
+"Riverdale, Kingsbridge, Fordham",2013,Number,3570,SD10
+"Eastchester, Baychester, Co-op City",2013,Number,1746,SD11
+"Crotona Park, Morrisania, Melrose",2013,Number,984,SD12
+"Brooklyn Hts, Downtown Brooklyn",2013,Number,2582,SD13
+"Williamsburg, Greenpoint",2013,Number,1224,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2013,Number,993,SD15
+Bedford Stuyvesant,2013,Number,400,SD16
+Crown Heights,2013,Number,1578,SD17
+"East Flatbush, Canarsie",2013,Number,789,SD18
+East New York,2013,Number,1099,SD19
+"Bay Ridge, Bensonhurst",2013,Number,2551,SD20
+"Gravesend, Coney Island",2013,Number,2560,SD21
+"Flatbush, Midwood, Sheepshead Bay",2013,Number,2243,SD22
+"Brownsville, Ocean Hill",2013,Number,359,SD23
+Bushwick,2013,Number,508,SD32
+"Sunnyside, Woodside, Jackson Hts",2013,Number,2773,SD24
+"Flushing, Whitestone",2013,Number,2390,SD25
+"Bayside, Douglaston, Little Neck",2013,Number,3561,SD26
+"Jamaica, Howard Beach, Rockaways",2013,Number,2290,SD27
+"Jamaica, Forest Hills",2013,Number,2952,SD28
+"Queens Village, Rosedale, Hollis",2013,Number,611,SD29
+"Long Island City, Astoria",2013,Number,2349,SD30
+Staten Island,2013,Number,3750,SD31
+Lower East Side,2013,Percent,0.71389,SD1
+"Stuyvesant Town, Upper E. Side",2013,Percent,0.76878,SD2
+Upper West Side,2013,Percent,0.74635,SD3
+East Harlem,2013,Percent,0.82365,SD4
+Central Harlem,2013,Percent,0.74875,SD5
+Washington Heights,2013,Percent,0.78005,SD6
+Mott Haven,2013,Percent,0.59733,SD7
+"Hunts Point, Port Morris",2013,Percent,0.62495,SD8
+"East Tremont, Morris Heights",2013,Percent,0.70423,SD9
+"Riverdale, Kingsbridge, Fordham",2013,Percent,0.73852,SD10
+"Eastchester, Baychester, Co-op City",2013,Percent,0.74203,SD11
+"Crotona Park, Morrisania, Melrose",2013,Percent,0.61347,SD12
+"Brooklyn Hts, Downtown Brooklyn",2013,Percent,0.84934,SD13
+"Williamsburg, Greenpoint",2013,Percent,0.72684,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2013,Percent,0.68201,SD15
+Bedford Stuyvesant,2013,Percent,0.54348,SD16
+Crown Heights,2013,Percent,0.77926,SD17
+"East Flatbush, Canarsie",2013,Percent,0.69211,SD18
+East New York,2013,Percent,0.72208,SD19
+"Bay Ridge, Bensonhurst",2013,Percent,0.80044,SD20
+"Gravesend, Coney Island",2013,Percent,0.81347,SD21
+"Flatbush, Midwood, Sheepshead Bay",2013,Percent,0.85123,SD22
+"Brownsville, Ocean Hill",2013,Percent,0.59046,SD23
+Bushwick,2013,Percent,0.67463,SD32
+"Sunnyside, Woodside, Jackson Hts",2013,Percent,0.7521,SD24
+"Flushing, Whitestone",2013,Percent,0.829,SD25
+"Bayside, Douglaston, Little Neck",2013,Percent,0.87926,SD26
+"Jamaica, Howard Beach, Rockaways",2013,Percent,0.74086,SD27
+"Jamaica, Forest Hills",2013,Percent,0.86064,SD28
+"Queens Village, Rosedale, Hollis",2013,Percent,0.74061,SD29
+"Long Island City, Astoria",2013,Percent,0.8274,SD30
+Staten Island,2013,Percent,0.82545,SD31
+Lower East Side,2015,Number,802,SD1
+"Stuyvesant Town, Upper E. Side",2015,Number,6767,SD2
+Upper West Side,2015,Number,1942,SD3
+East Harlem,2015,Number,729,SD4
+Central Harlem,2015,Number,739,SD5
+Washington Heights,2015,Number,941,SD6
+Mott Haven,2015,Number,1070,SD7
+"Hunts Point, Port Morris",2015,Number,1244,SD8
+"East Tremont, Morris Heights",2015,Number,1608,SD9
+"Riverdale, Kingsbridge, Fordham",2015,Number,3140,SD10
+"Eastchester, Baychester, Co-op City",2015,Number,1760,SD11
+"Crotona Park, Morrisania, Melrose",2015,Number,1120,SD12
+"Brooklyn Hts, Downtown Brooklyn",2015,Number,2530,SD13
+"Williamsburg, Greenpoint",2015,Number,1454,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2015,Number,956,SD15
+Bedford Stuyvesant,2015,Number,304,SD16
+Crown Heights,2015,Number,1694,SD17
+"East Flatbush, Canarsie",2015,Number,893,SD18
+East New York,2015,Number,967,SD19
+"Bay Ridge, Bensonhurst",2015,Number,2467,SD20
+"Gravesend, Coney Island",2015,Number,2392,SD21
+"Flatbush, Midwood, Sheepshead Bay",2015,Number,2068,SD22
+"Brownsville, Ocean Hill",2015,Number,389,SD23
+Bushwick,2015,Number,439,SD32
+"Sunnyside, Woodside, Jackson Hts",2015,Number,2790,SD24
+"Flushing, Whitestone",2015,Number,2270,SD25
+"Bayside, Douglaston, Little Neck",2015,Number,3091,SD26
+"Jamaica, Howard Beach, Rockaways",2015,Number,2100,SD27
+"Jamaica, Forest Hills",2015,Number,3228,SD28
+"Queens Village, Rosedale, Hollis",2015,Number,833,SD29
+"Long Island City, Astoria",2015,Number,2026,SD30
+Staten Island,2015,Number,3710,SD31
+Lower East Side,2016,Number,784,SD1
+"Stuyvesant Town, Upper E. Side",2016,Number,7136,SD2
+Upper West Side,2016,Number,1769,SD3
+East Harlem,2016,Number,793,SD4
+Central Harlem,2016,Number,784,SD5
+Washington Heights,2016,Number,1032,SD6
+Mott Haven,2016,Number,1065,SD7
+"Hunts Point, Port Morris",2016,Number,1220,SD8
+"East Tremont, Morris Heights",2016,Number,1493,SD9
+"Riverdale, Kingsbridge, Fordham",2016,Number,3240,SD10
+"Eastchester, Baychester, Co-op City",2016,Number,1750,SD11
+"Crotona Park, Morrisania, Melrose",2016,Number,1087,SD12
+"Brooklyn Hts, Downtown Brooklyn",2016,Number,2593,SD13
+"Williamsburg, Greenpoint",2016,Number,1363,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2016,Number,1086,SD15
+Bedford Stuyvesant,2016,Number,293,SD16
+Crown Heights,2016,Number,1717,SD17
+"East Flatbush, Canarsie",2016,Number,872,SD18
+East New York,2016,Number,929,SD19
+"Bay Ridge, Bensonhurst",2016,Number,2457,SD20
+"Gravesend, Coney Island",2016,Number,2283,SD21
+"Flatbush, Midwood, Sheepshead Bay",2016,Number,2289,SD22
+"Brownsville, Ocean Hill",2016,Number,436,SD23
+Bushwick,2016,Number,461,SD32
+"Sunnyside, Woodside, Jackson Hts",2016,Number,2648,SD24
+"Flushing, Whitestone",2016,Number,2013,SD25
+"Bayside, Douglaston, Little Neck",2016,Number,3182,SD26
+"Jamaica, Howard Beach, Rockaways",2016,Number,2118,SD27
+"Jamaica, Forest Hills",2016,Number,3380,SD28
+"Queens Village, Rosedale, Hollis",2016,Number,856,SD29
+"Long Island City, Astoria",2016,Number,1942,SD30
+Staten Island,2016,Number,3832,SD31
+Lower East Side,2014,Number,793,SD1
+"Stuyvesant Town, Upper E. Side",2014,Number,7025,SD2
+Upper West Side,2014,Number,1781,SD3
+East Harlem,2014,Number,774,SD4
+Central Harlem,2014,Number,787,SD5
+Washington Heights,2014,Number,1038,SD6
+Mott Haven,2014,Number,1107,SD7
+"Hunts Point, Port Morris",2014,Number,1468,SD8
+"East Tremont, Morris Heights",2014,Number,1481,SD9
+"Riverdale, Kingsbridge, Fordham",2014,Number,3237,SD10
+"Eastchester, Baychester, Co-op City",2014,Number,1455,SD11
+"Crotona Park, Morrisania, Melrose",2014,Number,978,SD12
+"Brooklyn Hts, Downtown Brooklyn",2014,Number,2561,SD13
+"Williamsburg, Greenpoint",2014,Number,1300,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2014,Number,847,SD15
+Bedford Stuyvesant,2014,Number,332,SD16
+Crown Heights,2014,Number,1545,SD17
+"East Flatbush, Canarsie",2014,Number,786,SD18
+East New York,2014,Number,991,SD19
+"Bay Ridge, Bensonhurst",2014,Number,2449,SD20
+"Gravesend, Coney Island",2014,Number,2568,SD21
+"Flatbush, Midwood, Sheepshead Bay",2014,Number,2275,SD22
+"Brownsville, Ocean Hill",2014,Number,327,SD23
+Bushwick,2014,Number,460,SD32
+"Sunnyside, Woodside, Jackson Hts",2014,Number,2591,SD24
+"Flushing, Whitestone",2014,Number,2245,SD25
+"Bayside, Douglaston, Little Neck",2014,Number,3296,SD26
+"Jamaica, Howard Beach, Rockaways",2014,Number,2103,SD27
+"Jamaica, Forest Hills",2014,Number,3155,SD28
+"Queens Village, Rosedale, Hollis",2014,Number,706,SD29
+"Long Island City, Astoria",2014,Number,2230,SD30
+Staten Island,2014,Number,3811,SD31
+Lower East Side,2015,Percent,0.71099,SD1
+"Stuyvesant Town, Upper E. Side",2015,Percent,0.77639,SD2
+Upper West Side,2015,Percent,0.80082,SD3
+East Harlem,2015,Percent,0.85765,SD4
+Central Harlem,2015,Percent,0.73752,SD5
+Washington Heights,2015,Percent,0.75948,SD6
+Mott Haven,2015,Percent,0.61814,SD7
+"Hunts Point, Port Morris",2015,Percent,0.59952,SD8
+"East Tremont, Morris Heights",2015,Percent,0.7185,SD9
+"Riverdale, Kingsbridge, Fordham",2015,Percent,0.75156,SD10
+"Eastchester, Baychester, Co-op City",2015,Percent,0.74576,SD11
+"Crotona Park, Morrisania, Melrose",2015,Percent,0.66038,SD12
+"Brooklyn Hts, Downtown Brooklyn",2015,Percent,0.86555,SD13
+"Williamsburg, Greenpoint",2015,Percent,0.77547,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2015,Percent,0.71664,SD15
+Bedford Stuyvesant,2015,Percent,0.56822,SD16
+Crown Heights,2015,Percent,0.82034,SD17
+"East Flatbush, Canarsie",2015,Percent,0.7626,SD18
+East New York,2015,Percent,0.70532,SD19
+"Bay Ridge, Bensonhurst",2015,Percent,0.83769,SD20
+"Gravesend, Coney Island",2015,Percent,0.84374,SD21
+"Flatbush, Midwood, Sheepshead Bay",2015,Percent,0.87701,SD22
+"Brownsville, Ocean Hill",2015,Percent,0.65709,SD23
+Bushwick,2015,Percent,0.65817,SD32
+"Sunnyside, Woodside, Jackson Hts",2015,Percent,0.76966,SD24
+"Flushing, Whitestone",2015,Percent,0.83425,SD25
+"Bayside, Douglaston, Little Neck",2015,Percent,0.90912,SD26
+"Jamaica, Howard Beach, Rockaways",2015,Percent,0.75758,SD27
+"Jamaica, Forest Hills",2015,Percent,0.89791,SD28
+"Queens Village, Rosedale, Hollis",2015,Percent,0.79258,SD29
+"Long Island City, Astoria",2015,Percent,0.84101,SD30
+Staten Island,2015,Percent,0.82794,SD31
+Lower East Side,2016,Percent,0.7334,SD1
+"Stuyvesant Town, Upper E. Side",2016,Percent,0.79465,SD2
+Upper West Side,2016,Percent,0.78413,SD3
+East Harlem,2016,Percent,0.85453,SD4
+Central Harlem,2016,Percent,0.79352,SD5
+Washington Heights,2016,Percent,0.76558,SD6
+Mott Haven,2016,Percent,0.62537,SD7
+"Hunts Point, Port Morris",2016,Percent,0.64008,SD8
+"East Tremont, Morris Heights",2016,Percent,0.71607,SD9
+"Riverdale, Kingsbridge, Fordham",2016,Percent,0.79063,SD10
+"Eastchester, Baychester, Co-op City",2016,Percent,0.74153,SD11
+"Crotona Park, Morrisania, Melrose",2016,Percent,0.64358,SD12
+"Brooklyn Hts, Downtown Brooklyn",2016,Percent,0.88167,SD13
+"Williamsburg, Greenpoint",2016,Percent,0.75722,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2016,Percent,0.73577,SD15
+Bedford Stuyvesant,2016,Percent,0.586,SD16
+Crown Heights,2016,Percent,0.82429,SD17
+"East Flatbush, Canarsie",2016,Percent,0.72185,SD18
+East New York,2016,Percent,0.74859,SD19
+"Bay Ridge, Bensonhurst",2016,Percent,0.82009,SD20
+"Gravesend, Coney Island",2016,Percent,0.84026,SD21
+"Flatbush, Midwood, Sheepshead Bay",2016,Percent,0.88515,SD22
+"Brownsville, Ocean Hill",2016,Percent,0.70323,SD23
+Bushwick,2016,Percent,0.70382,SD32
+"Sunnyside, Woodside, Jackson Hts",2016,Percent,0.72707,SD24
+"Flushing, Whitestone",2016,Percent,0.8405,SD25
+"Bayside, Douglaston, Little Neck",2016,Percent,0.91516,SD26
+"Jamaica, Howard Beach, Rockaways",2016,Percent,0.77441,SD27
+"Jamaica, Forest Hills",2016,Percent,0.89822,SD28
+"Queens Village, Rosedale, Hollis",2016,Percent,0.78749,SD29
+"Long Island City, Astoria",2016,Percent,0.84398,SD30
+Staten Island,2016,Percent,0.84331,SD31
+Lower East Side,2014,Percent,0.7183,SD1
+"Stuyvesant Town, Upper E. Side",2014,Percent,0.77736,SD2
+Upper West Side,2014,Percent,0.76966,SD3
+East Harlem,2014,Percent,0.84683,SD4
+Central Harlem,2014,Percent,0.756,SD5
+Washington Heights,2014,Percent,0.77986,SD6
+Mott Haven,2014,Percent,0.62086,SD7
+"Hunts Point, Port Morris",2014,Percent,0.64161,SD8
+"East Tremont, Morris Heights",2014,Percent,0.69596,SD9
+"Riverdale, Kingsbridge, Fordham",2014,Percent,0.72449,SD10
+"Eastchester, Baychester, Co-op City",2014,Percent,0.72244,SD11
+"Crotona Park, Morrisania, Melrose",2014,Percent,0.63178,SD12
+"Brooklyn Hts, Downtown Brooklyn",2014,Percent,0.8699,SD13
+"Williamsburg, Greenpoint",2014,Percent,0.75058,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2014,Percent,0.67978,SD15
+Bedford Stuyvesant,2014,Percent,0.51633,SD16
+Crown Heights,2014,Percent,0.81703,SD17
+"East Flatbush, Canarsie",2014,Percent,0.71067,SD18
+East New York,2014,Percent,0.69059,SD19
+"Bay Ridge, Bensonhurst",2014,Percent,0.80059,SD20
+"Gravesend, Coney Island",2014,Percent,0.83295,SD21
+"Flatbush, Midwood, Sheepshead Bay",2014,Percent,0.86272,SD22
+"Brownsville, Ocean Hill",2014,Percent,0.61815,SD23
+Bushwick,2014,Percent,0.631,SD32
+"Sunnyside, Woodside, Jackson Hts",2014,Percent,0.75276,SD24
+"Flushing, Whitestone",2014,Percent,0.83241,SD25
+"Bayside, Douglaston, Little Neck",2014,Percent,0.87012,SD26
+"Jamaica, Howard Beach, Rockaways",2014,Percent,0.74232,SD27
+"Jamaica, Forest Hills",2014,Percent,0.88079,SD28
+"Queens Village, Rosedale, Hollis",2014,Percent,0.75832,SD29
+"Long Island City, Astoria",2014,Percent,0.83209,SD30
+Staten Island,2014,Percent,0.83446,SD31
+Manhattan,2015,Number,11920,36061
+Bronx,2015,Number,9942,36005
+Brooklyn,2015,Number,16553,36047
+Queens,2015,Number,16338,36081
+Staten Island,2015,Number,3710,36085
+New York City,2015,Number,58463,3651000
+Manhattan,2016,Number,12298,36061
+Bronx,2016,Number,9855,36005
+Brooklyn,2016,Number,16779,36047
+Queens,2016,Number,16139,36081
+Staten Island,2016,Number,3832,36085
+New York City,2016,Number,58903,3651000
+Manhattan,2014,Number,12198,36061
+Bronx,2014,Number,9726,36005
+Brooklyn,2014,Number,16441,36047
+Queens,2014,Number,16326,36081
+Staten Island,2014,Number,3811,36085
+New York City,2014,Number,58502,3651000
+Manhattan,2015,Percent,0.77604,36061
+Bronx,2015,Percent,0.69632,36005
+Brooklyn,2015,Percent,0.80078,36047
+Queens,2015,Percent,0.83472,36081
+Staten Island,2015,Percent,0.82794,36085
+New York City,2015,Percent,0.78618,3651000
+Manhattan,2016,Percent,0.7899,36061
+Bronx,2016,Percent,0.71202,36005
+Brooklyn,2016,Percent,0.80579,36047
+Queens,2016,Percent,0.83191,36081
+Staten Island,2016,Percent,0.84331,36085
+New York City,2016,Percent,0.79409,3651000
+Manhattan,2014,Percent,0.77492,36061
+Bronx,2014,Percent,0.68353,36005
+Brooklyn,2014,Percent,0.78164,36047
+Queens,2014,Percent,0.81822,36081
+Staten Island,2014,Percent,0.83446,36085
+New York City,2014,Percent,0.77461,3651000
+New York City,2017,Number,57145,3651000
+Manhattan,2017,Number,12602,36061
+Bronx,2017,Number,10250,36005
+Brooklyn,2017,Number,17152,36047
+Queens,2017,Number,16243,36081
+Staten Island,2017,Number,3895,36085
+Lower East Side,2017,Number,750,SD1
+"Stuyvesant Town, Upper E. Side",2017,Number,6703,SD2
+Upper West Side,2017,Number,1853,SD3
+East Harlem,2017,Number,846,SD4
+Central Harlem,2017,Number,787,SD5
+Washington Heights,2017,Number,939,SD6
+Mott Haven,2017,Number,1127,SD7
+"Hunts Point, Port Morris",2017,Number,1232,SD8
+"East Tremont, Morris Heights",2017,Number,1477,SD9
+"Riverdale, Kingsbridge, Fordham",2017,Number,2947,SD10
+"Eastchester, Baychester, Co-op City",2017,Number,1629,SD11
+"Crotona Park, Morrisania, Melrose",2017,Number,962,SD12
+"Brooklyn Hts, Downtown Brooklyn",2017,Number,2320,SD13
+"Williamsburg, Greenpoint",2017,Number,1246,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2017,Number,1073,SD15
+Bedford Stuyvesant,2017,Number,311,SD16
+Crown Heights,2017,Number,1453,SD17
+"East Flatbush, Canarsie",2017,Number,861,SD18
+East New York,2017,Number,876,SD19
+"Bay Ridge, Bensonhurst",2017,Number,2568,SD20
+"Gravesend, Coney Island",2017,Number,2207,SD21
+"Flatbush, Midwood, Sheepshead Bay",2017,Number,2126,SD22
+"Brownsville, Ocean Hill",2017,Number,360,SD23
+"Sunnyside, Woodside, Jackson Hts",2017,Number,2930,SD24
+"Flushing, Whitestone",2017,Number,2107,SD25
+"Bayside, Douglaston, Little Neck",2017,Number,3086,SD26
+"Jamaica, Howard Beach, Rockaways",2017,Number,1930,SD27
+"Jamaica, Forest Hills",2017,Number,3270,SD28
+"Queens Village, Rosedale, Hollis",2017,Number,799,SD29
+"Long Island City, Astoria",2017,Number,2075,SD30
+Staten Island,2017,Number,3845,SD31
+Bushwick,2017,Number,450,SD32
+New York City,2017,Percent,0.78116,3651000
+Manhattan,2017,Percent,0.77622,36061
+Bronx,2017,Percent,0.69492,36005
+Brooklyn,2017,Percent,0.79085,36047
+Queens,2017,Percent,0.83439,36081
+Staten Island,2017,Percent,0.82749,36085
+Lower East Side,2017,Percent,0.71908,SD1
+"Stuyvesant Town, Upper E. Side",2017,Percent,0.77179,SD2
+Upper West Side,2017,Percent,0.80251,SD3
+East Harlem,2017,Percent,0.86948,SD4
+Central Harlem,2017,Percent,0.787,SD5
+Washington Heights,2017,Percent,0.73937,SD6
+Mott Haven,2017,Percent,0.60171,SD7
+"Hunts Point, Port Morris",2017,Percent,0.6305,SD8
+"East Tremont, Morris Heights",2017,Percent,0.68922,SD9
+"Riverdale, Kingsbridge, Fordham",2017,Percent,0.76387,SD10
+"Eastchester, Baychester, Co-op City",2017,Percent,0.70888,SD11
+"Crotona Park, Morrisania, Melrose",2017,Percent,0.59975,SD12
+"Brooklyn Hts, Downtown Brooklyn",2017,Percent,0.85325,SD13
+"Williamsburg, Greenpoint",2017,Percent,0.77536,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2017,Percent,0.73493,SD15
+Bedford Stuyvesant,2017,Percent,0.6122,SD16
+Crown Heights,2017,Percent,0.78287,SD17
+"East Flatbush, Canarsie",2017,Percent,0.71512,SD18
+East New York,2017,Percent,0.69085,SD19
+"Bay Ridge, Bensonhurst",2017,Percent,0.81395,SD20
+"Gravesend, Coney Island",2017,Percent,0.81801,SD21
+"Flatbush, Midwood, Sheepshead Bay",2017,Percent,0.90008,SD22
+"Brownsville, Ocean Hill",2017,Percent,0.599,SD23
+"Sunnyside, Woodside, Jackson Hts",2017,Percent,0.77739,SD24
+"Flushing, Whitestone",2017,Percent,0.80451,SD25
+"Bayside, Douglaston, Little Neck",2017,Percent,0.9223,SD26
+"Jamaica, Howard Beach, Rockaways",2017,Percent,0.77666,SD27
+"Jamaica, Forest Hills",2017,Percent,0.88594,SD28
+"Queens Village, Rosedale, Hollis",2017,Percent,0.73708,SD29
+"Long Island City, Astoria",2017,Percent,0.85638,SD30
+Staten Island,2017,Percent,0.83027,SD31
+Bushwick,2017,Percent,0.68389,SD32
+New York City,2018,Number,57312,3651000
+Manhattan,2018,Number,12543,36061
+Bronx,2018,Number,10397,36005
+Brooklyn,2018,Number,17222,36047
+Queens,2018,Number,16708,36081
+Staten Island,2018,Number,3804,36085
+Lower East Side,2018,Number,640,SD1
+"Stuyvesant Town, Upper E. Side",2018,Number,6828,SD2
+Upper West Side,2018,Number,1749,SD3
+East Harlem,2018,Number,801,SD4
+Central Harlem,2018,Number,683,SD5
+Washington Heights,2018,Number,965,SD6
+Mott Haven,2018,Number,1053,SD7
+"Hunts Point, Port Morris",2018,Number,1255,SD8
+"East Tremont, Morris Heights",2018,Number,1415,SD9
+"Riverdale, Kingsbridge, Fordham",2018,Number,2929,SD10
+"Eastchester, Baychester, Co-op City",2018,Number,1602,SD11
+"Crotona Park, Morrisania, Melrose",2018,Number,1047,SD12
+"Brooklyn Hts, Downtown Brooklyn",2018,Number,2313,SD13
+"Williamsburg, Greenpoint",2018,Number,1203,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2018,Number,1096,SD15
+Bedford Stuyvesant,2018,Number,306,SD16
+Crown Heights,2018,Number,1520,SD17
+"East Flatbush, Canarsie",2018,Number,809,SD18
+East New York,2018,Number,880,SD19
+"Bay Ridge, Bensonhurst",2018,Number,2660,SD20
+"Gravesend, Coney Island",2018,Number,2344,SD21
+"Flatbush, Midwood, Sheepshead Bay",2018,Number,2065,SD22
+"Brownsville, Ocean Hill",2018,Number,287,SD23
+"Sunnyside, Woodside, Jackson Hts",2018,Number,2810,SD24
+"Flushing, Whitestone",2018,Number,2068,SD25
+"Bayside, Douglaston, Little Neck",2018,Number,3297,SD26
+"Jamaica, Howard Beach, Rockaways",2018,Number,2112,SD27
+"Jamaica, Forest Hills",2018,Number,3413,SD28
+"Queens Village, Rosedale, Hollis",2018,Number,876,SD29
+"Long Island City, Astoria",2018,Number,2082,SD30
+Staten Island,2018,Number,3749,SD31
+Bushwick,2018,Number,455,SD32
+New York City,2018,Percent,0.76,3651000
+Manhattan,2018,Percent,0.75,36061
+Bronx,2018,Percent,0.68,36005
+Brooklyn,2018,Percent,0.78,36047
+Queens,2018,Percent,0.82,36081
+Staten Island,2018,Percent,0.8,36085
+Lower East Side,2018,Percent,0.67,SD1
+"Stuyvesant Town, Upper E. Side",2018,Percent,0.75,SD2
+Upper West Side,2018,Percent,0.78,SD3
+East Harlem,2018,Percent,0.84,SD4
+Central Harlem,2018,Percent,0.72,SD5
+Washington Heights,2018,Percent,0.74,SD6
+Mott Haven,2018,Percent,0.57,SD7
+"Hunts Point, Port Morris",2018,Percent,0.62,SD8
+"East Tremont, Morris Heights",2018,Percent,0.67,SD9
+"Riverdale, Kingsbridge, Fordham",2018,Percent,0.75,SD10
+"Eastchester, Baychester, Co-op City",2018,Percent,0.69,SD11
+"Crotona Park, Morrisania, Melrose",2018,Percent,0.61,SD12
+"Brooklyn Hts, Downtown Brooklyn",2018,Percent,0.85,SD13
+"Williamsburg, Greenpoint",2018,Percent,0.74,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2018,Percent,0.71,SD15
+Bedford Stuyvesant,2018,Percent,0.6,SD16
+Crown Heights,2018,Percent,0.8,SD17
+"East Flatbush, Canarsie",2018,Percent,0.67,SD18
+East New York,2018,Percent,0.68,SD19
+"Bay Ridge, Bensonhurst",2018,Percent,0.82,SD20
+"Gravesend, Coney Island",2018,Percent,0.8,SD21
+"Flatbush, Midwood, Sheepshead Bay",2018,Percent,0.87,SD22
+"Brownsville, Ocean Hill",2018,Percent,0.55,SD23
+"Sunnyside, Woodside, Jackson Hts",2018,Percent,0.77,SD24
+"Flushing, Whitestone",2018,Percent,0.8,SD25
+"Bayside, Douglaston, Little Neck",2018,Percent,0.91,SD26
+"Jamaica, Howard Beach, Rockaways",2018,Percent,0.77,SD27
+"Jamaica, Forest Hills",2018,Percent,0.87,SD28
+"Queens Village, Rosedale, Hollis",2018,Percent,0.69,SD29
+"Long Island City, Astoria",2018,Percent,0.84,SD30
+Staten Island,2018,Percent,0.8,SD31
+Bushwick,2018,Percent,0.63,SD32
+New York City,2019,Number,57134,3651000
+Bronx,2019,Number,10642,36005
+Brooklyn,2019,Number,17185,36047
+Manhattan,2019,Number,12709,36061
+Queens,2019,Number,16590,36081
+Staten Island,2019,Number,3757,36085
+Lower East Side,2019,Number,708,SD1
+"Stuyvesant Town, Upper E. Side",2019,Number,6672,SD2
+Upper West Side,2019,Number,1827,SD3
+East Harlem,2019,Number,807,SD4
+Central Harlem,2019,Number,702,SD5
+Washington Heights,2019,Number,1051,SD6
+Mott Haven,2019,Number,1014,SD7
+"Hunts Point, Port Morris",2019,Number,1253,SD8
+"East Tremont, Morris Heights",2019,Number,1496,SD9
+"Riverdale, Kingsbridge, Fordham",2019,Number,3037,SD10
+"Eastchester, Baychester, Co-op City",2019,Number,1637,SD11
+"Crotona Park, Morrisania, Melrose",2019,Number,978,SD12
+"Brooklyn Hts, Downtown Brooklyn",2019,Number,2361,SD13
+"Williamsburg, Greenpoint",2019,Number,1075,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2019,Number,1105,SD15
+Bedford Stuyvesant,2019,Number,297,SD16
+Crown Heights,2019,Number,1388,SD17
+"East Flatbush, Canarsie",2019,Number,795,SD18
+East New York,2019,Number,889,SD19
+"Bay Ridge, Bensonhurst",2019,Number,2653,SD20
+"Gravesend, Coney Island",2019,Number,2289,SD21
+"Flatbush, Midwood, Sheepshead Bay",2019,Number,2257,SD22
+"Brownsville, Ocean Hill",2019,Number,298,SD23
+Bushwick,2019,Number,433,SD32
+"Sunnyside, Woodside, Jackson Hts",2019,Number,2791,SD24
+"Flushing, Whitestone",2019,Number,2146,SD25
+"Bayside, Douglaston, Little Neck",2019,Number,3172,SD26
+"Jamaica, Howard Beach, Rockaways",2019,Number,2062,SD27
+"Jamaica, Forest Hills",2019,Number,3360,SD28
+"Queens Village, Rosedale, Hollis",2019,Number,809,SD29
+"Long Island City, Astoria",2019,Number,2104,SD30
+Staten Island,2019,Number,3668,SD31
+New York City,2019,Percent,0.77,3651000
+Bronx,2019,Percent,0.7,36005
+Brooklyn,2019,Percent,0.78,36047
+Manhattan,2019,Percent,0.77,36061
+Queens,2019,Percent,0.83,36081
+Staten Island,2019,Percent,0.82,36085
+Lower East Side,2019,Percent,0.7,SD1
+"Stuyvesant Town, Upper E. Side",2019,Percent,0.76,SD2
+Upper West Side,2019,Percent,0.79,SD3
+East Harlem,2019,Percent,0.88,SD4
+Central Harlem,2019,Percent,0.78,SD5
+Washington Heights,2019,Percent,0.77,SD6
+Mott Haven,2019,Percent,0.56,SD7
+"Hunts Point, Port Morris",2019,Percent,0.64,SD8
+"East Tremont, Morris Heights",2019,Percent,0.68,SD9
+"Riverdale, Kingsbridge, Fordham",2019,Percent,0.77,SD10
+"Eastchester, Baychester, Co-op City",2019,Percent,0.7,SD11
+"Crotona Park, Morrisania, Melrose",2019,Percent,0.6,SD12
+"Brooklyn Hts, Downtown Brooklyn",2019,Percent,0.87,SD13
+"Williamsburg, Greenpoint",2019,Percent,0.71,SD14
+"S. Brooklyn, Park Slope, Sunset Park",2019,Percent,0.7,SD15
+Bedford Stuyvesant,2019,Percent,0.61,SD16
+Crown Heights,2019,Percent,0.77,SD17
+"East Flatbush, Canarsie",2019,Percent,0.66,SD18
+East New York,2019,Percent,0.71,SD19
+"Bay Ridge, Bensonhurst",2019,Percent,0.82,SD20
+"Gravesend, Coney Island",2019,Percent,0.8,SD21
+"Flatbush, Midwood, Sheepshead Bay",2019,Percent,0.89,SD22
+"Brownsville, Ocean Hill",2019,Percent,0.55,SD23
+Bushwick,2019,Percent,0.68,SD32
+"Sunnyside, Woodside, Jackson Hts",2019,Percent,0.79,SD24
+"Flushing, Whitestone",2019,Percent,0.81,SD25
+"Bayside, Douglaston, Little Neck",2019,Percent,0.92,SD26
+"Jamaica, Howard Beach, Rockaways",2019,Percent,0.77,SD27
+"Jamaica, Forest Hills",2019,Percent,0.89,SD28
+"Queens Village, Rosedale, Hollis",2019,Percent,0.7,SD29
+"Long Island City, Astoria",2019,Percent,0.83,SD30
+Staten Island,2019,Percent,0.83,SD31
